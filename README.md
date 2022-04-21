@@ -29,7 +29,8 @@ This **Savings planner tool** was made with the opposite mindset. It assumes tha
 - It does not recommend any particular investment. For example, it will never tell you "buy the stock of company A".
 - It does not take into account investing in different countries other than the one selected.
 - It does not take into account inflation.
-- It does not work for investing periods smaller than 5 years (I consider it to be speculation if the investment horizon is less than 5 years).
+- It does not work for investing periods smaller than a year.
+- It does not foresee the future in any way, shape or form.
 
 
 **Under construction**
