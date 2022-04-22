@@ -759,7 +759,7 @@ body{
 .disclaimerText1{
 	position: fixed;
 	left: 91vw;
-	bottom: 1.1vw;
+	bottom: 1.0vw;
 	font-size: 0.6vw;
 	font-family: sans-serif;
 }
@@ -767,7 +767,7 @@ body{
 .disclaimerText2{
 	position: fixed;
 	left: 90.6vw;
-	bottom: 0.5vw;
+	bottom: 0.3vw;
 	font-size: 0.6vw;
 	font-family: sans-serif;
 }
@@ -775,7 +775,7 @@ body{
 .disclaimerText3{
 	position: fixed;
 	left: 88.3vw;
-	bottom: -0.2vw;
+	bottom: -0.4vw;
 	font-size: 0.6vw;
 	font-family: sans-serif;
 }
@@ -783,7 +783,7 @@ body{
 .disclaimerText4{
 	position: fixed;
 	left: 89vw;
-	bottom: -0.9vw;
+	bottom: -1.1vw;
 	font-size: 0.6vw;
 	font-family: sans-serif;
 }
