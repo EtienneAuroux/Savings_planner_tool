@@ -1,8 +1,11 @@
 # Savings_planner_tool
 ## A web app to plan your savings and investments in a realistic way.
 
+#### Direct link to the app:
 
-Hello world,
+[https://savings-planner-app.herokuapp.com](https://savings-planner-app.herokuapp.com)
+
+#### Why this app?
 
 Since the apparition of low-cost brokers (Robinhood, Nordnet, ...) more and more people are investing their savings with the hope of growing their wealth. Although many forms of investment exist (savings accounts, real estate, government bills, corporate bond, commodities, ...), the lure of a quick buck pushes most non-professional investors to buy and sell only common stocks, often over very short periods of time. What they see are the few lucky (and skilled?) investors who become wealthy enough to write books and have successful investing YouTube channels. However, for each of these _investing gurus_ how many others lose part or all of their hard-earned money?
 
@@ -32,5 +35,12 @@ This **Savings planner tool** was made with the opposite mindset. It assumes tha
 - It does not work for investing periods smaller than a year.
 - It does not foresee the future in any way, shape or form.
 
+#### Is this app perfect?
 
-**Under construction**
+Absolutely not! So many things could be improved I am sure but it represents what I can do with my current skills. Here is a list of what could be improved (that I am aware of):
+- In app.py and support_functions.py:
+    - Improve the algorithm for the calculation of the minimum yearly contribution.
+    - Find a way to fixate the dimensions of the plotly graphs so that it remains unchanged when zoomed in/out.
+- In assets\1_layout.css:
+    - Find a way to position all the scalable element nicely without relying on position:absolute.
+    - Implement more unifying classes instead of having almost one class per element.
