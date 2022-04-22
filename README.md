@@ -29,7 +29,7 @@ This **Savings planner tool** was made with the opposite mindset. It assumes tha
 
 #### What doesn't this app do?
 
-- It does not recommend any particular investment. For example, it will never tell you "buy the stock of company A".
+- It does not recommend any particular investment. For example, it will never tell you to buy any stock, or anything for that matters.
 - It does not take into account investing in different countries other than the one selected.
 - It does not take into account inflation.
 - It does not work for investing periods smaller than a year.
