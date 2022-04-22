@@ -44,3 +44,6 @@ Absolutely not! So many things could be improved I am sure but it represents wha
 - In assets\1_layout.css:
     - Find a way to position all the scalable element nicely without relying on position:absolute.
     - Implement more unifying classes instead of having almost one class per element.
+- In general:
+    - Add more countries.
+    - Make it more user friendly, right now it is a bit unclear how to use the app if you've never used it before.
